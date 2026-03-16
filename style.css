@@ -5,7 +5,7 @@
 }
 
 .fundo {
-    background-color: blue;
+    background-color: rgb(204, 0, 102);
     width: 660px;
     margin: 0 auto;
 }
@@ -15,7 +15,7 @@
 }
 
 .amarelo {
-    background-color: yellow;
+    background-color: rgb(255, 255, 138);
     padding: 80px;
     margin: 10px;
 }
@@ -25,10 +25,15 @@
 }
 
 .titulo {
-    background-color: blue;
+    background-color: rgb(204, 0, 102);
+    align-items: center;
     text-align: center;
     font-size: 45px;
     color: aliceblue;
-    margin-bottom: 20px;
-    width: 100%;
+    width: 600px;
+    margin: 20px auto 20px auto;
+}
+
+.abaixar {
+    padding-bottom: 265px;
 }
